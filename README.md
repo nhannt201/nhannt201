@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Lập trình viên Fullstack <br />
-  🔧 Đam mê xây dựng sản phẩm từ đầu đến cuối với Next.js, Node.js, .NET, Strapi CMS và Docker <br />
+  🔧 Đam mê xây dựng sản phẩm từ đầu đến cuối với Next.js, Node.js, .NET, Strapi CMS, React Native và Docker <br />
   📍 Hiện sống tại TP. Hồ Chí Minh, Việt Nam
 </p>
 
