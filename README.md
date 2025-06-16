@@ -69,7 +69,7 @@ Docker • Kubernetes • Gitlab CI/CD • JWT • S3 • RESTful API • VPS
 - 🧱 **[uyu.vn](https://uyu.vn)** – Trình tạo website kéo thả.  
   `Next.js • Typescript • Strapi • Redis • CI/CD • Subdomain`
   
-- 🧠 **VoiceNET** – Thư viện đào tạo ra lệnh bằng giọng nói, tham gia FPT Edu Research 2021  
+- 🧠 **VoiceNET Library** – Thư viện đào tạo ra lệnh bằng giọng nói, tham gia FPT Edu Research 2021  
   `.NET Core • WinForm • ML.NET`
 
 - 📱 **FaceDia** – App chẩn đoán da mặt (FPT Hackathon)  
